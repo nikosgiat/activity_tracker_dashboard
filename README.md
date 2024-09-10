@@ -1,4 +1,4 @@
-# diet_ingredients_picker
+# Activity Tracker Dashboard
 
 A new Flutter project.
 

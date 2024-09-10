@@ -1,7 +1,7 @@
 
 # Activity Tracker Dashboard
 
-A fully responsive **Activity Tracker Dashboard** built with Flutter. The dashboard adapts perfectly to web, mobile, and tablet devices. Track and visualize activities such as walking, running, biking, and swimming with this clean, intuitive interface.
+A fully responsive **Activity Tracker Dashboard** built with Flutter. The dashboard adapts perfectly to web, mobile, and tablet devices. Track and visualize activities such as walking, running and exercising with this clean, intuitive interface.
 
 ## Features
 
